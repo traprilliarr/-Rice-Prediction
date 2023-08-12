@@ -1,2 +1,2 @@
-# -Rice-Prediction
+# -Rice-Prediction-Fuzzy Time
 FTS+EHO
